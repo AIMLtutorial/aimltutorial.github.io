@@ -1,9 +1,9 @@
 # Site settings
 title: AIML Tutorial  # Replace with your site's title
 description: Learn AI ML  # Short description
-author: Your Name  # Your name or organization name
+author: Prashant Tyagi  # Your name or organization name
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://your-username.github.io"  # Your GitHub Pages URL (without the repo name)
+url: "https://aimltutorial.github.io"  # Your GitHub Pages URL (without the repo name)
 github_username: aimltutorial  # Replace with your GitHub username
 
 # Build settings
